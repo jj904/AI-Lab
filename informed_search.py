@@ -1,9 +1,4 @@
-# ----------------------------------------------------------------------
-# Name:     informed_search
-# Purpose:  Homework 4 - Implement astar and some heuristics
-#
-# Author(s): Dennis Tan, Gaeun Jung
-# ----------------------------------------------------------------------
+
 """
 A* Algorithm and heuristics implementation
 
