@@ -1,10 +1,4 @@
-# ----------------------------------------------------------------------
-# Name:     adversarial_search
-# Purpose:  Homework 6 - Implement adversarial search algorithms
-#
-# Author: Dennis Tan, Gaeun Jung
-#
-# ----------------------------------------------------------------------
+
 """
 Adversarial search algorithms implementation
 
