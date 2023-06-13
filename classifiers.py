@@ -1,10 +1,4 @@
-# ----------------------------------------------------------------------
-# Name:     classifiers
-# Purpose:  Homework 9
-#
-# Author(s): Dennis Tan, Gaeun Jung
-#
-# ----------------------------------------------------------------------
+
 """
 Your task is to implement two classifiers.
 
