@@ -1,10 +1,4 @@
-# ----------------------------------------------------------------------
-# Name:     beliefs
-# Purpose:  Homework 8
-#
-# Author(s): Dennis Tan, Gaeun Jung
-#
-# ----------------------------------------------------------------------
+
 """
 Module to track the belief distribution over all possible grid positions
 
