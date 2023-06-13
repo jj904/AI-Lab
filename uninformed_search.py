@@ -1,10 +1,4 @@
-# ----------------------------------------------------------------------
-# Name:     uninformed_search
-# Purpose:  Homework3 - Implement bfs and ucs graph search algorithms
-#
-# Author(s): Dennis Tan, Gaeun Jung
-#
-# ----------------------------------------------------------------------
+
 """
 Uninformed Search Algorithm implementation
 
